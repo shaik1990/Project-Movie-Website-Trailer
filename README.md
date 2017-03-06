@@ -1,4 +1,6 @@
 Project-Movie-Website-Trailer
+-----------------------------
+
 -------To create a web Page using Python-----
   Install python.
 A new file show.py with class Movie() is created with a constructor __init__ with instance variables or attributes such as poster_image, youtube_url, title, storyline, ratings, review etc..
